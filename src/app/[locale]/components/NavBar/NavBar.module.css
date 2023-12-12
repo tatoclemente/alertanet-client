@@ -1,0 +1,25 @@
+.navBarContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.advertisement {
+    height: 30px;
+    background-color: #009245;
+}
+
+.navBar {
+    background-color: aliceblue;
+    height: 70px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+}
+
+.rightContainer {
+    display: flex;
+    gap: 1rem;
+}

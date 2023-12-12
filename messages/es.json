@@ -1,0 +1,9 @@
+{
+    "Landing": {
+        "title": "Hola Mundo!"
+    },
+    "LocaleSwitcher": {
+        "label": "Cambiar lenguaje",
+        "locale": "{Idioma, selecciona, de {Español} a {Portugues} other {Unknown}}"
+      }
+}
